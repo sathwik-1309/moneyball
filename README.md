@@ -1,2 +1,0 @@
-# moneyball
-Audit application
